@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0A101A"/>
+  <rect x="70" y="70" width="1460" height="760" rx="40" fill="url(#paint0_linear)"/>
+  <rect x="120" y="120" width="420" height="660" rx="28" fill="#121B2E"/>
+  <rect x="590" y="120" width="420" height="660" rx="28" fill="#0F1627"/>
+  <rect x="1060" y="120" width="420" height="660" rx="28" fill="#111D31"/>
+  <path d="M210 594C210 470.326 310.326 370 434 370V370C557.674 370 658 470.326 658 594V650H210V594Z" fill="#1C2D4A"/>
+  <circle cx="434" cy="290" r="112" fill="#90A9D6"/>
+  <path d="M1196 546H1376" stroke="#78D2FC" stroke-width="26" stroke-linecap="round"/>
+  <path d="M1286 456V636" stroke="#78D2FC" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="1260" cy="650" r="72" stroke="#446EAB" stroke-width="24"/>
+  <circle cx="1360" cy="650" r="72" stroke="#446EAB" stroke-width="24"/>
+  <path d="M1166 650H1454" stroke="#446EAB" stroke-width="18" stroke-linecap="round"/>
+  <path d="M716 236L768 516L694 504L648 642L604 624L650 482L580 450L716 236Z" fill="#85D7FF"/>
+  <circle cx="764" cy="268" r="80" stroke="#85D7FF" stroke-width="18"/>
+  <text x="136" y="742" fill="#EEF3FF" font-family="Arial, sans-serif" font-size="40" font-weight="700">Drawing</text>
+  <text x="606" y="742" fill="#EEF3FF" font-family="Arial, sans-serif" font-size="40" font-weight="700">Gym</text>
+  <text x="1076" y="742" fill="#EEF3FF" font-family="Arial, sans-serif" font-size="40" font-weight="700">Motorcycles</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="70" y1="70" x2="1530" y2="830" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#132440"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+  </defs>
+</svg>

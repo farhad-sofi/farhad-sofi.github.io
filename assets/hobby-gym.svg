@@ -1,0 +1,12 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" rx="24" fill="#0D1423"/>
+  <rect x="74" y="66" width="752" height="488" rx="28" fill="#121D32"/>
+  <path d="M244 312H656" stroke="#84DAFF" stroke-width="22" stroke-linecap="round"/>
+  <rect x="176" y="248" width="54" height="128" rx="18" fill="#294974"/>
+  <rect x="670" y="248" width="54" height="128" rx="18" fill="#294974"/>
+  <rect x="116" y="266" width="44" height="92" rx="14" fill="#203A60"/>
+  <rect x="740" y="266" width="44" height="92" rx="14" fill="#203A60"/>
+  <circle cx="450" cy="214" r="84" fill="#1B2F4D"/>
+  <path d="M352 444C352 389.876 395.876 346 450 346V346C504.124 346 548 389.876 548 444V474H352V444Z" fill="#90AEE1"/>
+  <text x="118" y="520" fill="#EEF4FF" font-family="Arial, sans-serif" font-size="36" font-weight="700">Gym</text>
+</svg>
